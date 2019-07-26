@@ -164,6 +164,10 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [Captive Portal WiFi RPC](https://github.com/tripflex/captive-portal-wifi-rpc) - RPC endpoints to scan, test, and setup device WiFi
 - [Captive Portal Web UI](https://github.com/tripflex/captive-portal-wifi-web) - WiFi web setup UI (css/js files)
 - [GCP MQTT File Queue](https://github.com/tripflex/mqtt-queue-gcp) - Save MQTT publish to JSON file when disconnected and send when reconnect
+- [WiFi Setup via BLE](https://github.com/packetizedenergy/mos-bt-wifi-setup) - Expose to setup only WiFi configuration via Bluetooth
+- [pca9685-i2c](https://github.com/mamuesp/pca9685-i2c) - PCM module PCA9685 native with Mongoose OS over i2c
+- [ZIP Tools](https://github.com/mamuesp/zip-tools) - ZIP tools to use in Mongoose-OS (stack hungry!)
+- [timezones](https://github.com/mamuesp/timezones) - Timezone related functions to get the correct settings of the tzData used by Mongoose-OS
 
 ### Deprecated Libraries
 - [WiFi Captive Portal](https://github.com/tripflex/wifi-captive-portal) - WiFi Captive Portal Library (replaced by WiFi Stack above)
@@ -242,7 +246,8 @@ Libraries that can be used and included in projects in `mos.yml` file
 
 ### Community Examples
 - [Captive Portal WiFi Stack Demo](https://github.com/tripflex/captive-portal-wifi-stack-demo) - Demo application for the Captive Portal WiFi Stack
-
+- [LittlevGL Demo app](https://github.com/pjaos/mgos_esp32_littlevgl) - Demo application showing how to use LittlevGL to drive a TFT display
+  
 # Tutorials
 
 ### Official Tutorials
@@ -253,7 +258,8 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [Command Line Tool](https://github.com/mongoose-os/mos) - Command Line Tool for Mongoose OS
 - [Visual Studio Code Extension](https://github.com/cesanta/mongoose-os-ide) - Latest official Visual Studio Code Extension
 - [Visual Studio Code Extension 1.0](https://github.com/tripflex/mongoose-os-ide) - Original 1.0 version of Visual Studio Code Extension
-
+- [mos-FS.Put-script](https://github.com/mamuesp/mos-FS.Put-script) - Reads a single file, encodes it in base64 and transfers it via "mos call FS.Put" (RPC)
+- [Gulp Task to Minify mJS Code](https://gist.github.com/tripflex/7e1904f10aabf36385226d52157a06d4) - Gulp example tasks to minify mJS code to save space on devices
 
 # Misc
 Miscellaneous things that may be related to Mongoose OS in one way or another, but doesn't fit into any other category
