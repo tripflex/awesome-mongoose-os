@@ -8,7 +8,7 @@ function generateRepoLinkMarkdown( repos ){
 
     repos.forEach( (val) =>{
         const description = val.description ? ` - ${val.description}` : ''
-        yamlOutput += `[${val.name}](${val.html_url})${description}\n`
+        yamlOutput += `- [${val.name}](${val.html_url})${description}\n`
     })
 
     return yamlOutput
