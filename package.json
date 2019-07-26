@@ -1,0 +1,26 @@
+{
+  "name": "awesome-mongoose-os",
+  "version": "1.0.0",
+  "description": "A list of everything awesome for Mongoose OS",
+  "main": "updateREADME.js",
+  "dependencies": {
+    "github-api": "^3.2.2",
+    "markdown-magic": "^0.1.25",
+    "markdown-magic-github-contributors": "^0.0.3",
+    "sync-rpc": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tripflex/awesome-mongoose-os.git"
+  },
+  "author": "Myles McNamara",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/tripflex/awesome-mongoose-os/issues"
+  },
+  "homepage": "https://github.com/tripflex/awesome-mongoose-os#readme"
+}
