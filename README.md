@@ -165,9 +165,14 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [Captive Portal Web UI](https://github.com/tripflex/captive-portal-wifi-web) - WiFi web setup UI (css/js files)
 - [GCP MQTT File Queue](https://github.com/tripflex/mqtt-queue-gcp) - Save MQTT publish to JSON file when disconnected and send when reconnect
 - [WiFi Setup via BLE](https://github.com/packetizedenergy/mos-bt-wifi-setup) - Expose to setup only WiFi configuration via Bluetooth
+- [common-tools](https://github.com/mamuesp-libs/common-tools) - A bunch of tools and routines in C as well as in mJS always needed in every project.
+- [bmp-loader](https://github.com/mamuesp-libs/bmp-loader) - A wrapper for the [libbmpread](https://github.com/chazomaticus/libbmpread) library by Charles Lindsay
+- [ringbuffer](https://github.com/mamuesp-libs/ringbuffer) - A basic ring buffer library with wrapping and overwrite existing values to calculate the average of a amount of values in the buffer during the last buffer filling period.
 - [pca9685-i2c](https://github.com/mamuesp/pca9685-i2c) - PCM module PCA9685 native with Mongoose OS over i2c
 - [ZIP Tools](https://github.com/mamuesp/zip-tools) - ZIP tools to use in Mongoose-OS (stack hungry!)
 - [timezones](https://github.com/mamuesp/timezones) - Timezone related functions to get the correct settings of the tzData used by Mongoose-OS
+- [neopixel](https://github.com/mamuesp-libs/neopixel) A fork of Cesantas original with possibilities to adjust the timing of the control protocol. Might be merged eventually after some fixes.
+- [Universal-LED](https://github.com/mamuesp-libs/Universal-LED) - A LED driver with tools to drive Neopixel and APA102 LEDs (see the [LED effects libraries](https://github.com/mamuesp-libs?utf8=%E2%9C%93&q=ledeffects) coming with this library) **(late alpha, early beta state!)**
 
 ### Deprecated Libraries
 - [WiFi Captive Portal](https://github.com/tripflex/wifi-captive-portal) - WiFi Captive Portal Library (replaced by WiFi Stack above)
