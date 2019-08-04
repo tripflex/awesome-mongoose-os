@@ -78,7 +78,7 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [dht](https://github.com/mongoose-os-libs/dht)
 - [jstore](https://github.com/mongoose-os-libs/jstore)
 - [ili9341-spi](https://github.com/mongoose-os-libs/ili9341-spi) - ILI9341 TFT Driver for Mongoose OS
-- [bmp-loader](https://github.com/mongoose-os-libs/bmp-loader) - A wrapper for the [libbmpread](https://lab.burn.capital/chaz/libbmpread) library (by Charles Lindsay(
+- [bmp-loader](https://github.com/mongoose-os-libs/bmp-loader) - A wrapper for the [libbmpread](https://lab.burn.capital/chaz/libbmpread) library (by Charles Lindsay)
 - [lwip](https://github.com/mongoose-os-libs/lwip) - LwIP TCP/IP stack
 - [mbedtls](https://github.com/mongoose-os-libs/mbedtls) - Optimized version of mbedTLS
 - [vfs-common](https://github.com/mongoose-os-libs/vfs-common) - Mongoose OS VFS common bits
