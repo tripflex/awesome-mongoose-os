@@ -78,6 +78,7 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [dht](https://github.com/mongoose-os-libs/dht)
 - [jstore](https://github.com/mongoose-os-libs/jstore)
 - [ili9341-spi](https://github.com/mongoose-os-libs/ili9341-spi) - ILI9341 TFT Driver for Mongoose OS
+- [bmp-loader](https://github.com/mongoose-os-libs/bmp-loader) - A wrapper for the [libbmpread](https://lab.burn.capital/chaz/libbmpread) library (by Charles Lindsay(
 - [lwip](https://github.com/mongoose-os-libs/lwip) - LwIP TCP/IP stack
 - [mbedtls](https://github.com/mongoose-os-libs/mbedtls) - Optimized version of mbedTLS
 - [vfs-common](https://github.com/mongoose-os-libs/vfs-common) - Mongoose OS VFS common bits
@@ -166,12 +167,12 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [GCP MQTT File Queue](https://github.com/tripflex/mqtt-queue-gcp) - Save MQTT publish to JSON file when disconnected and send when reconnect
 - [WiFi Setup via BLE](https://github.com/packetizedenergy/mos-bt-wifi-setup) - Expose to setup only WiFi configuration via Bluetooth
 - [common-tools](https://github.com/mamuesp-libs/common-tools) - A bunch of tools and routines in C as well as in mJS always needed in every project.
-- [bmp-loader](https://github.com/mamuesp-libs/bmp-loader) - A wrapper for the [libbmpread](https://github.com/chazomaticus/libbmpread) library by Charles Lindsay
+- [color-tools](https://github.com/mamuesp-libs/color-tools) - A spin-off from "common-tools" holding functions related to pixels and colors.
 - [ringbuffer](https://github.com/mamuesp-libs/ringbuffer) - A basic ring buffer library with wrapping and overwrite existing values to calculate the average of a amount of values in the buffer during the last buffer filling period.
 - [pca9685-i2c](https://github.com/mamuesp/pca9685-i2c) - PCM module PCA9685 native with Mongoose OS over i2c
 - [ZIP Tools](https://github.com/mamuesp/zip-tools) - ZIP tools to use in Mongoose-OS (stack hungry!)
 - [timezones](https://github.com/mamuesp/timezones) - Timezone related functions to get the correct settings of the tzData used by Mongoose-OS
-- [neopixel](https://github.com/mamuesp-libs/neopixel) A fork of Cesantas original with possibilities to adjust the timing of the control protocol. Might be merged eventually after some fixes.
+- [neopixel](https://github.com/mamuesp-libs/neopixel) - A fork of Cesantas original with possibilities to adjust the timing of the control protocol. Might be merged eventually after some fixes.
 - [Universal-LED](https://github.com/mamuesp-libs/Universal-LED) - A LED driver with tools to drive Neopixel and APA102 LEDs (see the [LED effects libraries](https://github.com/mamuesp-libs?utf8=%E2%9C%93&q=ledeffects) coming with this library) **(late alpha, early beta state!)**
 
 ### Deprecated Libraries
