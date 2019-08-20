@@ -19,6 +19,7 @@
     - [Official Tutorials](#Official-Tutorials)
     - [Community Tutorials](#Community-Tutorials)
 - [Tools](#Tools)
+- [Code Snippets](#Code-Snippets)
 - [Misc](#Misc)
   - [Contribute](#Contribute)
 - [Contributors](#Contributors)
@@ -268,6 +269,10 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [mos-FS.Put-script](https://github.com/mamuesp/mos-FS.Put-script) - Reads a single file, encodes it in base64 and transfers it via "mos call FS.Put" (RPC)
 - [Gulp Task to Minify mJS Code](https://gist.github.com/tripflex/7e1904f10aabf36385226d52157a06d4) - Gulp example tasks to minify mJS code to save space on devices
 - [bump mos.yml version](https://gist.github.com/tripflex/e373ad5b61958c79fc851795ea19c3dd) - Shell script to automatically bump the version in `mos.yml` file.  See comments on gist for details 
+
+# Code Snippets
+- [mJS CronTab Callback](https://gist.github.com/tripflex/526458ecf7dc3c68324d5507dae02497) - C and mJS code to register a crontab callback in mJS
+
 # Misc
 Miscellaneous things that may be related to Mongoose OS in one way or another, but doesn't fit into any other category
 - [Frozen](https://github.com/cesanta/frozen) - JSON parser and emitter for C/C++
