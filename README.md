@@ -257,7 +257,8 @@ Libraries that can be used and included in projects in `mos.yml` file
 ### Community Examples
 - [Captive Portal WiFi Stack Demo](https://github.com/tripflex/captive-portal-wifi-stack-demo) - Demo application for the Captive Portal WiFi Stack
 - [LittlevGL Demo app](https://github.com/pjaos/mgos_esp32_littlevgl) - Demo application showing how to use LittlevGL to drive a TFT display
-  
+- [mJS Polyfill](https://github.com/Asondo/mjs-polyfill) - Mongoose os example project with standardization polyfill
+
 # Tutorials
 
 ### Official Tutorials
@@ -271,6 +272,7 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [mos-FS.Put-script](https://github.com/mamuesp/mos-FS.Put-script) - Reads a single file, encodes it in base64 and transfers it via "mos call FS.Put" (RPC)
 - [Gulp Task to Minify mJS Code](https://gist.github.com/tripflex/7e1904f10aabf36385226d52157a06d4) - Gulp example tasks to minify mJS code to save space on devices
 - [bump mos.yml version](https://gist.github.com/tripflex/e373ad5b61958c79fc851795ea19c3dd) - Shell script to automatically bump the version in `mos.yml` file.  See comments on gist for details 
+- [babel-preset-mjs](https://github.com/karimsa/babel-preset-mjs) - Babel preset to transpile JS to restricted mjs JS
 
 # Code Snippets
 - [mJS CronTab Callback](https://gist.github.com/tripflex/526458ecf7dc3c68324d5507dae02497) - C and mJS code to register a crontab callback in mJS
