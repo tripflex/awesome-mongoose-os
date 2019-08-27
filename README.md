@@ -176,7 +176,9 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [neopixel](https://github.com/mamuesp-libs/neopixel) - A fork of Cesantas original with possibilities to adjust the timing of the control protocol. Might be merged eventually after some fixes.
 - [Universal-LED](https://github.com/mamuesp-libs/Universal-LED) - A LED driver with tools to drive Neopixel and APA102 LEDs (see the [LED effects libraries](https://github.com/mamuesp-libs?utf8=%E2%9C%93&q=ledeffects) coming with this library) **(late alpha, early beta state!)**
 - [mgos-arduino-adafruit-epd](https://github.com/bbilger/mgos-arduino-adafruit-epd) - E-Paper / E-Ink library; a wrapper around the [Adafruit EPD Library](https://github.com/adafruit/Adafruit_EPD).
-
+- [pulse_cnt](https://github.com/DrBomb/pulse_cnt) - pulse counter peripheral (and example code) for ESP32
+- [epdpaint](https://github.com/DrBomb/epdpaint) - Mongoose OS EPD Paint library
+- [mongooseOS-epd2in7b](https://github.com/DrBomb/mongooseOS-epd2in7b) - Demo, and ported library for 2.7" b/w/r EPD
 ### Deprecated Libraries
 - [WiFi Captive Portal](https://github.com/tripflex/wifi-captive-portal) - WiFi Captive Portal Library (replaced by WiFi Stack above)
 - [Provision WiFi](https://github.com/tripflex/provision-wifi) - WiFi provision library - (replaced by WiFi Stack above)
