@@ -179,6 +179,8 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [pulse_cnt](https://github.com/DrBomb/pulse_cnt) - pulse counter peripheral (and example code) for ESP32
 - [epdpaint](https://github.com/DrBomb/epdpaint) - Mongoose OS EPD Paint library
 - [mongooseOS-epd2in7b](https://github.com/DrBomb/mongooseOS-epd2in7b) - Demo, and ported library for 2.7" b/w/r EPD
+- [syslog](https://github.com/nliviu/syslog) - syslog library
+
 ### Deprecated Libraries
 - [WiFi Captive Portal](https://github.com/tripflex/wifi-captive-portal) - WiFi Captive Portal Library (replaced by WiFi Stack above)
 - [Provision WiFi](https://github.com/tripflex/provision-wifi) - WiFi provision library - (replaced by WiFi Stack above)
@@ -258,6 +260,9 @@ Libraries that can be used and included in projects in `mos.yml` file
 - [Captive Portal WiFi Stack Demo](https://github.com/tripflex/captive-portal-wifi-stack-demo) - Demo application for the Captive Portal WiFi Stack
 - [LittlevGL Demo app](https://github.com/pjaos/mgos_esp32_littlevgl) - Demo application showing how to use LittlevGL to drive a TFT display
 - [mJS Polyfill](https://github.com/Asondo/mjs-polyfill) - Mongoose os example project with standardization polyfill
+- [jstore demo](https://github.com/nliviu/jstore-demo) - Demo project of using jstore for MQTT queues
+- [build-var](https://github.com/nliviu/build-var) - Example to show the usage of build_vars to select the files to be included in the filesystem
+- [http-gzip](https://github.com/nliviu/http-gzip) - simple example about how to serve gzipped css and js files
 
 # Tutorials
 
